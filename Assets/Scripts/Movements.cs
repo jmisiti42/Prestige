@@ -37,13 +37,13 @@ public class Movements : MonoBehaviour
         {
             float angle = AngleBetweenVector2(dir, dirLocal + dir);
             if (angle >= 45 && angle <= 135)
-                anim.Play("WalkUp");
+                anim.Play("Walk_Up");
             else if (angle > -45 && angle < 45)
-                anim.Play("WalkRight");
+                anim.Play("Walk_Right");
             else if (angle >= -135 && angle <= -45)
-                anim.Play("WalkDown");
+                anim.Play("Walk_Down");
             else if (angle > 135 || angle < -135)
-                anim.Play("WalkLeft");
+                anim.Play("Walk_Left");
             Vector3 movement = headingLocal;
             movement *= Time.deltaTime * speed;
             trf.Translate(movement);
