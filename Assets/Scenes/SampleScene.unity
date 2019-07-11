@@ -120,6 +120,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!224 &396934617 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7496166945166635494, guid: ec7c06af910a0472db3ad5e757274a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 1830022241980319245}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -203,6 +209,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!224 &641013513 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7496166944784878588, guid: ec7c06af910a0472db3ad5e757274a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 1830022241980319245}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1009283832
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -269,6 +281,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 637742497041113904, guid: a045d08b42c294b7ab58fc1b78cf3d65,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7402897231260223378, guid: 55fde0d34e41a470d91f8acd76709907,
+        type: 3}
+    - target: {fileID: 637742497041113904, guid: a045d08b42c294b7ab58fc1b78cf3d65,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3615285221424825802, guid: a045d08b42c294b7ab58fc1b78cf3d65,
+        type: 3}
+      propertyPath: handleBg
+      value: 
+      objectReference: {fileID: 396934617}
+    - target: {fileID: 3615285221424825802, guid: a045d08b42c294b7ab58fc1b78cf3d65,
+        type: 3}
+      propertyPath: handle
+      value: 
+      objectReference: {fileID: 641013513}
+    - target: {fileID: 3615285221424825802, guid: a045d08b42c294b7ab58fc1b78cf3d65,
+        type: 3}
+      propertyPath: speed
+      value: 0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a045d08b42c294b7ab58fc1b78cf3d65, type: 3}
@@ -404,6 +442,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2773677962233176492, guid: 94f58eb9fc6404c31a386f87860756ce,
+        type: 3}
+      propertyPath: handleBg
+      value: 
+      objectReference: {fileID: 396934617}
+    - target: {fileID: 2773677962233176492, guid: 94f58eb9fc6404c31a386f87860756ce,
+        type: 3}
+      propertyPath: handle
+      value: 
+      objectReference: {fileID: 641013513}
+    - target: {fileID: 2773677962233176492, guid: 94f58eb9fc6404c31a386f87860756ce,
+        type: 3}
+      propertyPath: speed
+      value: 0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94f58eb9fc6404c31a386f87860756ce, type: 3}
@@ -593,6 +646,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7808904913082996055, guid: f487f508584dc474ea740d6d604bd9bc,
+        type: 3}
+      propertyPath: handleBg
+      value: 
+      objectReference: {fileID: 396934617}
+    - target: {fileID: 7808904913082996055, guid: f487f508584dc474ea740d6d604bd9bc,
+        type: 3}
+      propertyPath: handle
+      value: 
+      objectReference: {fileID: 641013513}
+    - target: {fileID: 7808904913082996055, guid: f487f508584dc474ea740d6d604bd9bc,
+        type: 3}
+      propertyPath: speed
+      value: 0.02
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f487f508584dc474ea740d6d604bd9bc, type: 3}
 --- !u!1001 &6224028629061845099
@@ -661,6 +729,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8078934806149781810, guid: 40157dee2bcd14df0ad651580f9a37b8,
+        type: 3}
+      propertyPath: handleBg
+      value: 
+      objectReference: {fileID: 396934617}
+    - target: {fileID: 8078934806149781810, guid: 40157dee2bcd14df0ad651580f9a37b8,
+        type: 3}
+      propertyPath: handle
+      value: 
+      objectReference: {fileID: 641013513}
+    - target: {fileID: 8078934806149781810, guid: 40157dee2bcd14df0ad651580f9a37b8,
+        type: 3}
+      propertyPath: speed
+      value: 0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40157dee2bcd14df0ad651580f9a37b8, type: 3}
