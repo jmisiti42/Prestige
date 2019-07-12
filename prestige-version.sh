@@ -13,8 +13,9 @@ then
         git checkout -b "$TYPE/$SCOPE/$TRELLOID"
     fi
 
-    git add *
+    git add .
     git commit -m "$TYPE($SCOPE): $DESC"
+    git push --set-upstream origin "$TYPE/$SCOPE/$TRELLOID"
 else
     echo "Wrong usage, please use :\n./prestige-version.sh [fix, feature, revert, change] [character, monsters, server, etc..] [trelloId] [description]"
 fi
