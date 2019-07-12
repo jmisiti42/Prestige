@@ -26,7 +26,6 @@ public class Movements : MonoBehaviour
         return Vector2.Angle(Vector2.right, diference) * sign;
     }
 
-    // Update is called once per frame
     void Update()
     {
         Vector3 headingLocal = handle.localPosition;
