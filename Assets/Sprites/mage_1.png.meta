@@ -38,6 +38,42 @@ TextureImporter:
   - first:
       213: 1627530592487119854
     second: mageVrai_11
+  - first:
+      213: 1219397821524989918
+    second: mage_1_0
+  - first:
+      213: 4694479297084158166
+    second: mage_1_1
+  - first:
+      213: 1893705921552931635
+    second: mage_1_2
+  - first:
+      213: 5795047358631407470
+    second: mage_1_3
+  - first:
+      213: 6425811996262635994
+    second: mage_1_4
+  - first:
+      213: 1202111710374950172
+    second: mage_1_5
+  - first:
+      213: 5195978441894251238
+    second: mage_1_6
+  - first:
+      213: 4163621703167401475
+    second: mage_1_7
+  - first:
+      213: 8964841105815618848
+    second: mage_1_8
+  - first:
+      213: -9201911671250999514
+    second: mage_1_9
+  - first:
+      213: -7049141447535801005
+    second: mage_1_10
+  - first:
+      213: -4728028989748300868
+    second: mage_1_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -142,7 +178,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mageVrai_0
+      name: mage_1_0
       rect:
         serializedVersion: 2
         x: 18
@@ -156,14 +192,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42368ee0cb1364cccb5eef6e64621a88
-      internalID: -4297239937057903457
+      spriteID: fa5e4d3245081412c832495de76163cd
+      internalID: 1219397821524989918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_1
+      name: mage_1_1
       rect:
         serializedVersion: 2
         x: 116
@@ -177,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac36abea32d8747d78c0c2f1fe1daf2a
-      internalID: -7402897231260223378
+      spriteID: c7ad81e15c4ed4705a9942fc19b7e934
+      internalID: 4694479297084158166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_2
+      name: mage_1_2
       rect:
         serializedVersion: 2
         x: 213
@@ -198,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffdb61633eadd4234ab134c7b34fa008
-      internalID: 8915011208195249212
+      spriteID: 5754328389b364dc6867d8d23058b519
+      internalID: 1893705921552931635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_3
+      name: mage_1_3
       rect:
         serializedVersion: 2
         x: 18
@@ -219,14 +255,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d24386593010142e7bddeb80bd87d8a4
-      internalID: 9003279746499793733
+      spriteID: 49fc3a7906b184e88b46d401c0b4992f
+      internalID: 5795047358631407470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_4
+      name: mage_1_4
       rect:
         serializedVersion: 2
         x: 114
@@ -240,14 +276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66b0589a8df2b4f57be8c0b815c696f8
-      internalID: -3405981674501392942
+      spriteID: 5d103fb98a1204201a3dd6154d9e0eb4
+      internalID: 6425811996262635994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_5
+      name: mage_1_5
       rect:
         serializedVersion: 2
         x: 211
@@ -261,14 +297,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 616c4257849e448afaf9ed40dc0c6d94
-      internalID: 2683374279529996247
+      spriteID: e889e07289f4b402e978f90362868716
+      internalID: 1202111710374950172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_6
+      name: mage_1_6
       rect:
         serializedVersion: 2
         x: 17
@@ -282,14 +318,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02d293211b3344b20aca6d7c824b9585
-      internalID: 4224747914731625799
+      spriteID: 346fe4df8b6fd40c4b2dc8d3a197c025
+      internalID: 5195978441894251238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_7
+      name: mage_1_7
       rect:
         serializedVersion: 2
         x: 114
@@ -303,14 +339,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab2bcd7afc98b40b094e1b216a1b36a2
-      internalID: 7629056849201820478
+      spriteID: e885d9f0e798847f480cbea2c7d16383
+      internalID: 4163621703167401475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_8
+      name: mage_1_8
       rect:
         serializedVersion: 2
         x: 210
@@ -324,14 +360,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76c44c798b7d94b01ae8e7a60214230b
-      internalID: 7127969880620381217
+      spriteID: 7bd8c0f95195f4999967f3b92764b54a
+      internalID: 8964841105815618848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_9
+      name: mage_1_9
       rect:
         serializedVersion: 2
         x: 20
@@ -345,14 +381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5df1fe685f0de4f1d93d30d6c7bdaf47
-      internalID: 498576223118289410
+      spriteID: f7f32e703facd4f5ea24ac8f73e067d7
+      internalID: -9201911671250999514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_10
+      name: mage_1_10
       rect:
         serializedVersion: 2
         x: 117
@@ -366,14 +402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ea7b1a1dc4ed4e2aa2e86a8ed37198c
-      internalID: 4721273429555457161
+      spriteID: 4c4dc15423f1b4405a7a1922b273bf83
+      internalID: -7049141447535801005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mageVrai_11
+      name: mage_1_11
       rect:
         serializedVersion: 2
         x: 215
@@ -387,8 +423,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e83f1d6d1c44863b89c838ba7010c9
-      internalID: 1627530592487119854
+      spriteID: 693a44e24cc8e4bdbade0b1dc2b14d39
+      internalID: -4728028989748300868
       vertices: []
       indices: 
       edges: []
