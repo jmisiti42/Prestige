@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 3615285221424825802}
   - component: {fileID: 1241223422}
   - component: {fileID: 1241223421}
-  - component: {fileID: 1241223420}
   m_Layer: 0
   m_Name: Mage_1
   m_TagString: Untagged
@@ -73,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7402897231260223378, guid: 55fde0d34e41a470d91f8acd76709907,
+  m_Sprite: {fileID: 4694479297084158166, guid: 55fde0d34e41a470d91f8acd76709907,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -156,15 +155,3 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.32
---- !u!114 &1241223420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8352200659454238751}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d212b86401c874043b30bdf08d1c037a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
