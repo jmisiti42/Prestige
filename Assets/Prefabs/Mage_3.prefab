@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 8078934806149781810}
   - component: {fileID: 940393953}
   - component: {fileID: 940393952}
-  - component: {fileID: 940393958}
   m_Layer: 0
   m_Name: Mage_3
   m_TagString: Untagged
@@ -156,15 +155,3 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.32
---- !u!114 &940393958
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3592408608591740135}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d212b86401c874043b30bdf08d1c037a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
