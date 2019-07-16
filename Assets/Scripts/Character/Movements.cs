@@ -14,7 +14,7 @@ public class Movements : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        character = this.gameObject;
+        character = gameObject;
         anim = character.GetComponent<Animator>();
         trf = character.GetComponent<Transform>();
     }

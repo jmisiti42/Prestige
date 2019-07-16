@@ -8,7 +8,7 @@ public class Stat
 
     public Stat(float start)
     {
-        value = start;
+         value = start;
     }
 
     public void Add(float plus)
