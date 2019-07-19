@@ -725,5 +725,21 @@ PrefabInstance:
       propertyPath: handleBg
       value: 
       objectReference: {fileID: 396934617}
+    - target: {fileID: 6466838125336460208, guid: 798030f4ea0f4480cb2b5e04dc2bbd10,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751470948662019838, guid: 798030f4ea0f4480cb2b5e04dc2bbd10,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751470948662019838, guid: 798030f4ea0f4480cb2b5e04dc2bbd10,
+        type: 3}
+      propertyPath: projectiles.Array.data[0]
+      value: 
+      objectReference: {fileID: 4908991174232003964, guid: 56635dffd76854e5194f60db1c4318de,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 798030f4ea0f4480cb2b5e04dc2bbd10, type: 3}

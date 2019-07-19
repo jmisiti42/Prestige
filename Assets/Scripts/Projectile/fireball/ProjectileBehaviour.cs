@@ -6,12 +6,12 @@ public class ProjectileBehaviour : MonoBehaviour
 {
     // Start is called before the first frame update
     public Projectile projectile;
-    public Vector2 direction;
-    public Vector2 target;
-    public GameObject enemy;
+    private Vector2 direction;
+    private Vector2 target;
+    private GameObject enemy;
     private Transform position;
 
-    void Start()
+    void Awake()
     {
         enemy = GameObject.FindGameObjectWithTag("Player").gameObject;
         position = gameObject.GetComponent<Transform>();
